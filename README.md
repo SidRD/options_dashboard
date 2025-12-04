@@ -10,4 +10,4 @@ Libraries used:
 To install them:
 `pip install numpy scipy yfinance streamlit`
 or 
-`py -m install numpy scipy yfinance streamlit`
+`py -m pip install numpy scipy yfinance streamlit`
